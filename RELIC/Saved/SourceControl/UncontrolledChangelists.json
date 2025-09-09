@@ -1,0 +1,41 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GitHub/Relic/RELIC/Content/Blueprints/ABP_SandboxCharacter.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Blueprints/BP_Relic_Character.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Characters/UEFN_Mannequin/Meshes/SK_UEFN_Mannequin.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Levels/DefaultLevel.umap",
+				"E:/GitHub/Relic/RELIC/Content/Resources/ChestModel/SkeletalMeshes/ChestModel.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/ChestModel/SkeletalMeshes/ChestModel_Anim.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/ChestModel/SkeletalMeshes/ChestModel_PhysicsAsset.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/ChestModel/SkeletalMeshes/ChestModel_Skeleton.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/ChestModel/Textures/ChestModel_texture_0.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/ChestModel/Textures/ChestModel_texture_1.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/ChestModel/Textures/ChestModel_texture_2.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/HoldingItem.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Lever/SkeletalMeshes/Lever.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Lever/SkeletalMeshes/Lever_Anim.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Lever/SkeletalMeshes/Lever_PhysicsAsset.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Lever/SkeletalMeshes/Lever_Skeleton.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Lever/Textures/Lever_texture_0.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Lever/Textures/Lever_texture_1.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Lever/Textures/Lever_texture_2.uasset",
+				"E:/Unreal/UE_5.6/Engine/Plugins/Interchange/Assets/Content/gltf/M_Default.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/ChestModel/Materials/Old_Chest.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Torch/StaticMeshes/Torch.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Torch/Textures/Torch_texture_0.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Torch/Textures/Torch_texture_1.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Torch/Textures/Torch_texture_2.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Lever/Materials/aiStandardSurface1.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Resources/Torch/Materials/torch.uasset",
+				"E:/GitHub/Relic/RELIC/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset",
+				"E:/GitHub/Relic/RELIC/Content/Blueprints/GM_Sandbox.uasset",
+				"E:/GitHub/Relic/RELIC/Content/StarterContent/Particles/P_Fire.uasset"
+			]
+		}
+	]
+}
